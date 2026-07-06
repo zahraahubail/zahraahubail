@@ -28,7 +28,7 @@
 <div align="center">
 
 <a href="https://github.com/zahraa-hubail" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>&nbsp;&nbsp;
-<a href="linkedin.com/in/zahraa-hubail-341b113b2" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+<a href="https://www.linkedin.com/in/zahraa-hubail-341b113b2" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
 
 </div>
 
