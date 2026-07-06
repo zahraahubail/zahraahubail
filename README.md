@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Zahraa ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+# Hi, I'm Zahraa 👋🏻
 ### Programming Student | Software Engineer | Full-stuck Developer
 #### Passionate about building modern applications, exploring new technologies, and continuously improving my skills through real-world projects.
 
@@ -27,13 +27,8 @@
 
 <div align="center">
 
-
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/raghad-aleskafi-93b578398/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1GstooDuQAywg3j0IP6sgg%3D%3D)" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
+<a href="https://github.com/zahraa-hubail" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>&nbsp;&nbsp;
+<a href="linkedin.com/in/zahraa-hubail-341b113b2" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
 
 </div>
 
